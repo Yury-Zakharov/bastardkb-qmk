@@ -86,7 +86,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   // ├──────────────────────────────────────────────────────┤ ├──────────────────────────────────────────────────────┤
        RGB_MOD, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,    KC_RBRC, KC_UP,   KC_DOWN, XXXXXXX, XXXXXXX, KC_F12,
   // ├──────────────────────────────────────────────────────┤ ├──────────────────────────────────────────────────────┤
-       RGB_TOG, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,    KC_RPRN, KC_BTN1, KC_BTN3, KC_BTN2, XXXXXXX, XXXXXXX,
+       RGB_TOG, DRGSCRL, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,    KC_RPRN, KC_BTN1, KC_BTN3, KC_BTN2, XXXXXXX, XXXXXXX,
   // ├──────────────────────────────────────────────────────┤ ├──────────────────────────────────────────────────────┤
       RGB_RMOD, SNIPING, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,    XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, KC_INS,
   // ╰──────────────────────────────────────────────────────┤ ├──────────────────────────────────────────────────────╯
